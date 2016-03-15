@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Lace top",
+      "price": 14.99,
+      "category_id": 1
+    },
+    {
+      "id": 1,
+      "name": "Camisole",
+      "price": 8.99,
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Leggings",
+      "price": 12.99,
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "End table",
+      "price": 34.99,
+      "category_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Candle set",
+      "price": 9.99,
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Floor lamp",
+      "price": 26.99,
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Water filter",
+      "price": 29.99,
+      "category_id": 3
+    },
+    {
+      "id": 7,
+      "name": "Extension cord",
+      "price": 8.99,
+      "category_id": 3
+    },
+    {
+      "id": 8,
+      "name": "Plastic storage drawers",
+      "price": 15.99,
+      "category_id": 3
+    },
+    {
+      "id": 9,
+      "name": "Light bulbs",
+      "price": 9.99,
+      "category_id": 3
+    },
+    {
+      "id": 10,
+      "name": "Chainsaw",
+      "price": 59.99,
+      "category_id": 4
+    },
+    {
+      "id": 11,
+      "name": "12 gauge double-barreled Remington",
+      "price": 109.95,
+      "category_id": 4
+    },
+    {
+      "id": 12,
+      "name": "Deadite Field Guide",
+      "price": 12.95,
+      "category_id": 4
+    },
+    {
+      "id": 13,
+      "name": "Necronomicon",
+      "price": 74.99,
+      "category_id": 4
+    },
+    {
+      "id": 14,
+      "name": "Kandarian demon paper targets",
+      "price": 19.99,
+      "category_id": 4
+    },
+    {
+    "id": 15,
+    "name": "So You Accidentally Summoned Demons: A Primer",
+    "price": 11.99,
+    "category_id": 4
+    }
+  ]
+}
