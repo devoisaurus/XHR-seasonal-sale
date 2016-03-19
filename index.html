@@ -8,22 +8,23 @@
 <body>
 <h1>S-Mart's Available Products</h1>
 
+<div id="buttonContainer">
 <h4>Choose your season to see discounted products</h4>
-	<select>
+	<select id="seasonSelect">
 		<option>Selct one:</option>
 		<option>Winter</option>
 		<option>Spring</option>
 		<option>Summer</option>
 		<option>Autumn</option>
 	</select>
+	<button id="button">See discounted prices!</button>
+	<button id="reset" onClick="window.location.reload(true)">Reset prices</button>
+</div>
 
-<article>
-	<section id="department"></section>
-	<section id="product"></section>
-	<section id="price"></section>
-</article>
+<div id="shopSmart"></div>
 
 
-	<script src = "seasonal-sales.js"></script>
+<script src = "seasonal-sales.js"></script>
+
 </body>
 </html>
